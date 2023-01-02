@@ -14,6 +14,8 @@ Step 5: In VSC use terminal to get node modules with: "npm install package.json"
 Step 6: Use "npm start".
 
 Step 7: go to [http://localhost:3000/] and Enjoy!
+
+
 ![image](https://user-images.githubusercontent.com/117378841/210270061-cbc80d13-742b-4f5f-bb2f-6bed70692a88.png)
 
 
