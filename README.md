@@ -1,6 +1,3 @@
-API REST WITH SPRING BOOT, SPRING DATA JPA AND H2 DATABASE CONSUMED WITH REACTJS AXIOS
-
-
 Steps to recreate:
 
   Step 1: Separate frontend and backend folders.
